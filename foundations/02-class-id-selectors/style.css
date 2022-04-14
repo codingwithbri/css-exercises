@@ -8,3 +8,14 @@ div {
     color: blue;
     font-size: 36px;
 }
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.id2 .id3 {
+    font-size: 24px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(237, 154, 149);
+}
