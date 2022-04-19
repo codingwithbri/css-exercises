@@ -9,13 +9,15 @@ div {
     font-size: 36px;
 }
 
-#two {
-    color: blue;
-    font-size: 36px;
+#id3 {
+    font-size: 24px;
 }
 
-.id2 .id3 {
+#id2 {
+    background-color: lightgreen;
     font-size: 24px;
-    font-family: Verdana, DejaVu Sans, sans-serif;
-    background-color: rgb(237, 154, 149);
+    color: black;
+    font-weight: bold;
 }
+
+
